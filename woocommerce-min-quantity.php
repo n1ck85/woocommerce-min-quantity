@@ -4,8 +4,8 @@ Plugin Name: WooCommerce Minimum Quantity for Products
 Plugin URI:
 Description: A plugin to allow minimum quantity per product
 Version: 1.0
-Author: Paramount Digital
-Author URI: https://paramountdigital.co.uk
+Author: Nick Bibby
+Author URI: https://nickbibby.me
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: woo_min_quantity
